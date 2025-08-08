@@ -1,24 +1,22 @@
-# Title of your OER Project
+# Trainer’s Guide for PWDs
 
-Use this `README.md` document to describe your Open Educational Resource (OER). The headlines / structure of this document should serve you as a suggestion. It is written in markdown syntax. 
+
 
 ## Description of your OER
 Please use different **hierarchy levels of headlines** to structure your document!
 
 ## Learning Objective 
-Define what the learner will be able to do after completing this training.
-
-For example: _"By the end of this webinar, participants will be able to explain the key principles of effective written communication and apply editing techniques to improve clarity and engagement."_
+This Guide 
++ informs people about the different types of disabilities.
++ explains how to adapt the training environment to include people with disabilities.
++ lists media training support tools.
 
 ## Table of Content
-Structure your training, lesson, or OER into different segments using headings and subheadings. Include these segments in your table of contents. The table of contents provides an organised overview, allowing readers to quickly find and navigate to the sections of interest.
 
-+ [Resource Example](https://github.com/ASKnetCommunity/OER_documents_template/blob/main/resources_example.md)
-    + [Tools & Materials](https://github.com/ASKnetCommunity/OER_documents_template/blob/main/resources_example.md#tools--materials)
-    + [Step-by-Step Guide / Instructions](https://github.com/ASKnetCommunity/OER_documents_template/blob/main/resources_example.md#step-by-step-guide--instructions)
-+ [Markdown Syntax](https://github.com/ASKnetCommunity/OER_documents_template/blob/main/markdown_syntax.md#markdown-syntax) 
-+ [Licence](https://github.com/ASKnetCommunity/OER_documents_template/blob/main/LICENCE)
-+ [Wiki](https://github.com/ASKnetCommunity/OER_documents_template/wiki/Creating-a-document-with-images-on-GitHub)
++ Trainer’s Guide for PWDs
+    + [Download Version](/materials/Trainers_Guide_PWDs-reduced_file.pdf)
+    + [Print Version]()
++ [Voice of Resilience](https://www.youtube.com/watch?v=zccmWhQdZAo)
 
 ## Additional information for this template
 Find the related Wiki for this template [here](https://github.com/ASKnetCommunity/OER_documents_template/wiki) (this is how you embed links)  
