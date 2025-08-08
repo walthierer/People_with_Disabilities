@@ -15,7 +15,7 @@ This Guide
 
 + Trainer’s Guide for PWDs
     + [Download Version](/materials/Trainers_Guide_PWDs-reduced_file.pdf)
-    + [Print Version]()
+    + [Print Version](/materials/Trainers_Guide_PWDs-Print.pdf)
 + [Voice of Resilience](https://www.youtube.com/watch?v=zccmWhQdZAo)
 
 ## Additional information for this template
