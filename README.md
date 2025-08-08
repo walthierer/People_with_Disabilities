@@ -25,7 +25,7 @@ This Guide
     + [Print Version](/materials/Trainers_Guide_PWDs-Print.pdf)
 + Documentary [Voice of Resilience](https://www.youtube.com/watch?v=zccmWhQdZAo)
 
-### Partners and the Network
+## Partners and the Network
 <br>
 
 <p align="center"; vertical-align="center"; width="100%" >
