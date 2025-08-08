@@ -16,7 +16,7 @@ This Guide
 + Trainer’s Guide for PWDs
     + [Download Version](/materials/Trainers_Guide_PWDs-reduced_file.pdf)
     + [Print Version](/materials/Trainers_Guide_PWDs-Print.pdf)
-+ [Voice of Resilience](https://www.youtube.com/watch?v=zccmWhQdZAo)
++ Documentary [Voice of Resilience](https://www.youtube.com/watch?v=zccmWhQdZAo)
 
 ## Additional information for this template
 Find the related Wiki for this template [here](https://github.com/ASKnetCommunity/OER_documents_template/wiki) (this is how you embed links)  
