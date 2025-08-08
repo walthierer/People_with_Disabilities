@@ -28,7 +28,7 @@ This Guide
 ### Partners and the Network
 <br>
 
-<p align="center" vertical-align="middle" width="100%" >
+<p align="center"; vertical-align="middle"; width="100%" >
  <a href="https://asknet.community/"> <img height="80" src="/materials/images/asknet-logo.png" alt="ASKnet Logo"/> </a>
- <a href="[https://asknet.community/](https://www.linkedin.com/in/nexus-youth-initiative-uganda-b71229218/)"> <img height="120" src="materials/images/nexus.jpg" alt="NEXUS YOUTH INITIATIVE Logo"/> </a> 
+ <a href="https://www.linkedin.com/in/nexus-youth-initiative-uganda-b71229218/"> <img height="120" src="materials/images/nexus.jpg" alt="NEXUS YOUTH INITIATIVE Logo"/> </a> 
 </p>
