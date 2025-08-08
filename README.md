@@ -5,8 +5,12 @@ It covers three types of disability: general physical disabilities (such as para
 
 It also distinguishes between general support services and those specifically designed for media use.
 
+<br>
+
 <p align="center" width="80%" >
  <img src="materials/images/pwd_cover.jpg" alt="pwd cover"/> </p>
+
+<br>
 
 ## Learning Objective 
 This Guide 
@@ -26,6 +30,5 @@ This Guide
 
 <p align="center" width="100%" >
  <a href="https://asknet.community/"> <img height="100" src="/materials/images/asknet-logo.png" alt="ASKnet Logo"/> </a>
-<!--- <img height="100" src="/images/PA-Logo-HD.png" alt="Platform Africa Logo"/>
- <img height="100" src="/images/CC4D.png" alt="CC4D Logo"/> -->
+<a href="[https://asknet.community/](https://www.linkedin.com/in/nexus-youth-initiative-uganda-b71229218/)"> <img height="100" src="materials/images/nexus.jpg" alt="NEXUS YOUTH INITIATIVE Logo"/>
 </p>
