@@ -5,6 +5,9 @@ It covers three types of disability: general physical disabilities (such as para
 
 It also distinguishes between general support services and those specifically designed for media use.
 
+<p align="center" width="100%" >
+ <img height="100" src="materials/images/pwd_cover.jpg" alt="pwd cover"/> </p>
+
 ## Learning Objective 
 This Guide 
 + informs people about the different types of disabilities.
