@@ -29,6 +29,6 @@ This Guide
 <br>
 
 <p align="center" width="100%" >
- <a href="https://asknet.community/"> <img height="100" src="/materials/images/asknet-logo.png" alt="ASKnet Logo"/> </a>
-<a href="[https://asknet.community/](https://www.linkedin.com/in/nexus-youth-initiative-uganda-b71229218/)"> <img height="100" src="materials/images/nexus.jpg" alt="NEXUS YOUTH INITIATIVE Logo"/>
+ <a href="https://asknet.community/"> <img height="80" src="/materials/images/asknet-logo.png" alt="ASKnet Logo"/> </a>
+<a href="[https://asknet.community/](https://www.linkedin.com/in/nexus-youth-initiative-uganda-b71229218/)"> <img height="120" src="materials/images/nexus.jpg" alt="NEXUS YOUTH INITIATIVE Logo"/>
 </p>
